@@ -1,0 +1,39 @@
+body {
+	font-family: 'Trebuchet MS', Verdana;
+	color: navy;
+	text-align: center;
+}
+
+table {
+	width: 90%;
+	padding: 4px;
+	margin: auto;
+}
+
+#submitCell {
+   text-align: right;
+}
+
+td {
+   text-align: center;
+}
+
+.header {
+	background-color: #cccc99;
+	color: #003366;
+}
+
+.desc, .price {
+	background-color: #003366;
+	color: #cccc99;
+	font-size: 0.8em;
+}
+
+.desc:first-letter {
+	font-family: Algerian, 'Tekton Pro', 'Comic Sans MS';
+	font-size: 200%;
+}
+
+.qty {
+   width: 120px;
+}
